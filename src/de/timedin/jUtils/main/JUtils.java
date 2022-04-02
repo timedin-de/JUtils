@@ -15,4 +15,6 @@ public class JUtils {
                 "Mehr Informationen unter: https://www.timedin.de/tools/java_utils" +
                 "", "Fehler", JOptionPane.ERROR_MESSAGE);
     }
+
+
 }
