@@ -5,7 +5,7 @@ import javax.swing.*;
 public class JUtils {
     public static final String prefix = "[Java-Utils-Library]: ";
 
-    //Methode to display message when JAR is run directly
+    //Method to display message when JAR is run directly
     public static void main(String[] args) {
         String url = "https://github.com/timedin-de/JUtils/releases/new";
         JOptionPane.showMessageDialog(null, "This is a Java library, not an executable!" +
